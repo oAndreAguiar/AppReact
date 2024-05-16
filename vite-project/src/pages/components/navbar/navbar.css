@@ -1,0 +1,23 @@
+.navbar-paginaprincipal {
+    background-color: #00b300;
+    color: #fff;
+    padding: 10px;
+  }
+  
+  .ul-paginaprincipal {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .li-paginaprincipal {
+    margin: 0 10px;
+  }
+  
+  .li-paginaprincipal a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 24px;
+  }
+  
